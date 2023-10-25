@@ -1,0 +1,24 @@
+.card{
+    background-color: #F9F7E5;
+    display: inline-block;
+    border-radius: 20%;
+    text-align: center;
+    height: 42rem;
+    
+}
+.card img{
+    border-top-left-radius: 20% ;
+    border-top-right-radius: 20%;
+    object-fit: cover;
+    
+}
+.card h4{
+    color: brown;
+    font-size: 2rem;
+}
+.card button{
+    padding: 0.5rem;
+    border-radius: 40%;
+   background-color: #EFE091;
+    width: 10rem;
+}

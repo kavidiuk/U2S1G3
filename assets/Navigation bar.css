@@ -1,0 +1,25 @@
+nav {
+  display: flex;
+  background-color: #f9f7e5;
+  border-radius: 20px;
+  flex: wrap;
+}
+nav h4 {
+  background-color: #efe091;
+  /* justify-content: space-between; */
+  margin-left: 5rem;
+  justify-content: space-evenly;
+  border-radius: 30px;
+  justify-content: space-between;
+    font-size: 20px;
+    text-align: center;
+    width: 800px; 
+    cursor: pointer;
+}
+.shop{
+    font-weight: 100%;
+    
+}
+nav img{
+    width: 4rem;
+}
